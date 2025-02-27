@@ -1,5 +1,5 @@
 import express from 'express';
-import tarefaRouter from './routers/tarefaRoutes.js'
+import tarefaRouter from './routes/tarefaRoutes.js'
 
 const app = express();
 const port = 3000;
