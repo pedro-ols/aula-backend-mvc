@@ -1,0 +1,19 @@
+{
+  "name": "todolist-mvc",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node", "backend", "javaScript"],
+  "author": "Pedro Santos",
+  "license": "MIT",
+  "type": "module",
+  "description": "Uma API de lista de tarefas com NodeJS e Express no padrão MVC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
